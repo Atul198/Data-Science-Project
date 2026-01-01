@@ -5,8 +5,6 @@ All raw data located under `data/Raw/` remains unchanged.
 
 ## Folder Structure
 
-- `BITCOINITY/`  
-  Cleaned Bitcoin trading volume and price data, standardized to monthly frequency.
 
 - `GOLD/`  
   Cleaned and standardized gold trade and price-related datasets.
